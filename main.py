@@ -7,7 +7,7 @@ st.markdown(
     <style>
     body {
         background-color: #d6e9ff;
-        color: #0d0469;
+        color: gray;
     }
     </style>
     """,
